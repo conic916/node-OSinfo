@@ -1,0 +1,12 @@
+{
+  "name": "Node-zad-2",
+  "version": "1.0.0",
+  "description": "learning Node",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katarzyna-da-silva",
+  "license": "ISC"
+}
